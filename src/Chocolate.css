@@ -1,0 +1,10 @@
+.Chocolate img {
+    width: 300px;
+}
+
+.Chocolate a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+}

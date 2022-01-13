@@ -1,0 +1,10 @@
+.Chips img {
+    width: 300px;
+}
+
+.Chips a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+}

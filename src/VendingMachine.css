@@ -1,0 +1,22 @@
+.VendingMachine {
+    display: inline-flex;
+}
+
+.VendingMachine img {
+    width: 500px;
+}
+
+.VendingMachine h1 {
+    margin-top: 25%;
+}
+
+.VendingMachine-list {
+    margin-top: 25%;
+}
+
+.VendingMachine-list a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+}

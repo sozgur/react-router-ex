@@ -1,0 +1,10 @@
+.OrangeJuice img {
+    width: 300px;
+}
+
+.OrangeJuice a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+}
